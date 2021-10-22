@@ -13,3 +13,8 @@ This website is responsive.
 <p align="center">
   <img src="img/pic-2.png" height="40%" width="40%"/>
 </p>
+
+<p>
+  Visit the page: <a href="https://shruthi-sivagnanam.github.io/Restaurant-website/">Indian Restaurent</a>
+
+</p>
